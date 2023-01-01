@@ -1,0 +1,37 @@
+@media screen AND (max-width: 320px) {
+    body {
+        font-size: 20px;
+        font-weight: 100px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: italic;
+        background-color: rgb(119, 116, 76);
+    }
+}
+
+@media screen AND (min-width: 620px) {
+body {
+    font-size: 20px;
+    font-weight: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    background-color: rgb(97, 109, 105);
+}
+}
+@media screen AND (min-width: 720px) {
+body {
+    font-size: 20px;
+    font-weight: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    background-color: rgb(52, 107, 89);
+}
+}
+@media screen AND (min-width: 820px) {
+body {
+    font-size: 20px;
+    font-weight: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    background-color: rgb(90, 148, 129);
+}
+}
